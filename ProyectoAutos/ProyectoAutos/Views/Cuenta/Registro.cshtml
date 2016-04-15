@@ -1,0 +1,141 @@
+﻿@model ProyectoAutos.Models.Usuario
+
+@{
+    ViewBag.Title = "Registro";
+}
+
+<style>
+    .centrado {
+        padding: 15px;
+    }
+</style>
+
+
+<div class="row">
+    <br /><br />
+    <div class="col-xs-6">
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#myCarousel" data-slide-to="1"></li>
+                <li data-target="#myCarousel" data-slide-to="2"></li>
+                <li data-target="#myCarousel" data-slide-to="3"></li>
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+                <div class="item active">
+                    <img src="~/Imagenes/hyundaiElantra.jpg" alt="Hyundai" class="img-rounded">
+                    <div class="carousel-caption">
+                        <h3>Hyundai Elantra 2013</h3>
+
+                    </div>
+                </div>
+
+                <div class="item">
+                    <img src="~/Imagenes/mazdaP.jpg" alt="Mazda" class="img-rounded">
+                    <div class="carousel-caption">
+                        <h3>Mazda Protege 2001</h3>
+
+                    </div>
+                </div>
+
+                <div class="item">
+                    <img src="~/Imagenes/pougeot107.jpg" alt="Peugeot" class="img-rounded">
+                    <div class="carousel-caption">
+                        <h3>Peugeot 107 Premium</h3>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <img src="~/Imagenes/terios.jpg" alt="Daihatsu">
+                    <div class="carousel-caption">
+                        <h3>Daihatsu Terios 2008</h3>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+    <div class="col-xs-6">
+        <div class="centrado">
+
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+                    <h4>Registro</h4>
+                    <hr />
+                    @Html.ValidationSummary(true)
+                    @if (ViewBag.mensaje != null)
+                    {
+                        <div class="form-group">
+                            <div class="alert alert-success">
+                                @ViewBag.mensaje
+                            </div>
+                        </div>
+                    }
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.nombreUsuario, new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.nombreUsuario)
+                            @Html.ValidationMessageFor(model => model.nombreUsuario)
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.user, new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.user)
+                            @Html.ValidationMessageFor(model => model.user)
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.email, new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.email)
+                            @Html.ValidationMessageFor(model => model.email)
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.password, new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.password)
+                            @Html.ValidationMessageFor(model => model.password)
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Registrame" class="btn btn-default" id="myButton" data-loading-text="Loading..." />
+                        </div>
+                    </div>
+                </div>
+            }
+
+            <div>
+                @Html.ActionLink("Iniciar Sesion", "Login")
+            </div>
+
+        </div>
+    </div>
+
+
+</div>
+<script>
+    $('#myButton').on('click', function () {
+        var $btn = $(this).button('loading')
+        // business logic...
+        $btn.button('reset')
+    })
+</script>
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>

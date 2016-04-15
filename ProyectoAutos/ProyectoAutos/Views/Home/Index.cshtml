@@ -1,0 +1,67 @@
+﻿@model IEnumerable<ProyectoAutos.Models.Auto>
+
+@{
+    ViewBag.Title = "TuCarroFacil";
+}
+
+@if (Session["idUsuario"] != null) {  
+
+<h2>Bienvenido @Session["nombreUsuario"]</h2>
+
+<p>
+    @Html.ActionLink("Ver mis pedidos", "MisPedidos", "Pedido", null, new { @class = "btn btn-success"})
+</p>
+
+
+<div class="row">
+@foreach (var item in Model) {
+     if(item.estado != 1){
+    <div class="col-md-4" >
+        
+        <div class="panel panel-primary" >
+            <div class="panel-heading">@Html.DisplayFor(modelItem => item.nombreAuto)</div>
+            <div class="panel-body" >
+                <table>
+                    <tr><td colspan="2" style="overflow: hidden;">
+        @if (item.archivos.Any(a => a.tipo == ProyectoAutos.Models.FileType.Imagen))
+{
+    <a class="thumbnail">
+        <img src="~/Archivo/Obtener?id=@item.archivos.First(a => a.tipo == ProyectoAutos.Models.FileType.Imagen).idArchivo" class="img-rounded img-responsive" style="max-width: 100%;" />
+    </a>
+}
+else
+{
+            <a class="thumbnail">
+            <img src="~/Imagenes/hyundaiElantra.jpg" alt="Hyundai" class="img-rounded" style="max-width: 100%;">
+                </a>
+        }
+                        
+                        </td></tr>
+                    <tr>
+                        <td class="text-info"><strong>Marca:</strong> </td>
+                        <td>@Html.DisplayFor(modelItem => item.marca)</td>
+                    </tr>
+                    <tr>
+                        <td class="text-info"><strong>Modelo: </strong></td>
+                        <td>@Html.DisplayFor(modelItem => item.modelo)</td>
+                    </tr>
+                    <tr>
+                        <td class="text-info"><strong>Precio: </strong></td>
+                        <td>Q @Html.DisplayFor(modelItem => item.precio)</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="panel-footer">
+                @Html.ActionLink("Comprar", "Nuevo", "Pedido", new { id = item.idAuto }, new { @class = "btn btn-primary"}) |
+                @Html.ActionLink("Detalles", "Details", new { id = item.idAuto }, new { @class = "btn btn-warning" })
+            </div>
+        </div>
+    </div>
+      }
+}
+</div>
+
+
+} else {
+    <h2>@Html.ActionLink("Inicie Sesion","Login","Cuenta") para acceder al contenido</h2>
+}

@@ -1,0 +1,147 @@
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\bin\ProyectoAutos.dll.config
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\bin\ProyectoAutos.dll
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\bin\ProyectoAutos.pdb
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\bin\EntityFramework.dll
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\bin\EntityFramework.SqlServer.dll
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\bin\System.Web.Helpers.dll
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\bin\System.Web.Mvc.dll
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\bin\System.Web.Razor.dll
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Deployment.dll
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.dll
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Razor.dll
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\bin\EntityFramework.xml
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\bin\EntityFramework.SqlServer.xml
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\bin\System.Web.Razor.xml
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.xml
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Deployment.xml
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Razor.xml
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\bin\System.Web.Helpers.xml
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\bin\System.Web.Mvc.xml
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.csprojResolveAssemblyReference.cache
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.dll
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.pdb
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.Migrations.DB_AUTOS.resources
+c:\users\informatica\documents\visual studio 2013\Projects\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\ProyectoAutos.dll.config
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\ProyectoAutos.dll
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\ProyectoAutos.pdb
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\EntityFramework.dll
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Helpers.dll
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Mvc.dll
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Razor.dll
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.dll
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Razor.dll
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\EntityFramework.xml
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Razor.xml
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.xml
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Razor.xml
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Helpers.xml
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Mvc.xml
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.dll
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.pdb
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.Migrations.DB_AUTOS.resources
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\ProyectoAutos.dll.config
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\ProyectoAutos.dll
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\ProyectoAutos.pdb
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\EntityFramework.dll
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\EntityFramework.SqlServer.dll
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Helpers.dll
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Mvc.dll
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Razor.dll
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.dll
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Razor.dll
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\EntityFramework.xml
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\EntityFramework.SqlServer.xml
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Razor.xml
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.xml
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Razor.xml
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Helpers.xml
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Mvc.xml
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.csprojResolveAssemblyReference.cache
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.dll
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.pdb
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.Migrations.DB_AUTOS.resources
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.csproj.GenerateResource.Cache
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\ProyectoAutos.dll.config
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\ProyectoAutos.dll
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\ProyectoAutos.pdb
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\EntityFramework.dll
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\EntityFramework.SqlServer.dll
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Helpers.dll
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Mvc.dll
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Razor.dll
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.dll
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Razor.dll
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\EntityFramework.xml
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\EntityFramework.SqlServer.xml
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Razor.xml
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.xml
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Razor.xml
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Helpers.xml
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Mvc.xml
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.csprojResolveAssemblyReference.cache
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.dll
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.pdb
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\Boo.Lang.dll
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.Migrations.DB_AUTOS.resources
+C:\Users\Informatica\Desktop\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.csproj.GenerateResource.Cache
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\ProyectoAutos.dll.config
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\ProyectoAutos.dll
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\ProyectoAutos.pdb
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\Boo.Lang.dll
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\EntityFramework.dll
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\EntityFramework.SqlServer.dll
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Helpers.dll
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Mvc.dll
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Razor.dll
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.dll
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Razor.dll
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\EntityFramework.xml
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\EntityFramework.SqlServer.xml
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Razor.xml
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.xml
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Razor.xml
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Helpers.xml
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\System.Web.Mvc.xml
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.dll
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.pdb
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.Migrations.DB_AUTOS.resources
+C:\Users\Alejandro\Desktop\TodoPrpyecto\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.csproj.GenerateResource.Cache
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\bin\ProyectoAutos.dll.config
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\bin\ProyectoAutos.dll
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\bin\ProyectoAutos.pdb
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\bin\Boo.Lang.dll
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\bin\EntityFramework.dll
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\bin\EntityFramework.SqlServer.dll
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\bin\System.Web.Helpers.dll
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\bin\System.Web.Mvc.dll
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\bin\System.Web.Razor.dll
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.dll
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Razor.dll
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\bin\EntityFramework.xml
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\bin\EntityFramework.SqlServer.xml
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\bin\System.Web.Razor.xml
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.xml
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\bin\System.Web.Webpages.Razor.xml
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\bin\System.Web.Helpers.xml
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\bin\System.Web.Mvc.xml
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.dll
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.pdb
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.Migrations.DB_AUTOS.resources
+C:\Users\Alejandro\Desktop\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.csproj.GenerateResource.Cache

@@ -1,0 +1,53 @@
+﻿@model IEnumerable<ProyectoAutos.Models.Pedido>
+
+@{
+    ViewBag.Title = "Mis Pedidos";
+}
+
+<h2>Mis Pedidos</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            #
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.auto.nombreAuto)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.usuario.nombreUsuario)
+        </th>
+        <th>@Html.DisplayNameFor(model => model.auto.precio)</th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    if (item.idUsuario.Equals(Session["idUsuario"]))
+    {
+        
+    
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.idPedido)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.auto.nombreAuto)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.usuario.nombreUsuario)
+        </td>
+        <td>
+            Q @Html.DisplayFor(modelItem => item.auto.precio)
+        </td>
+        
+    </tr>
+    }
+}
+
+</table>
+
+<p>
+   
+    @Html.ActionLink("Regresar", "Index","Home")
+</p>

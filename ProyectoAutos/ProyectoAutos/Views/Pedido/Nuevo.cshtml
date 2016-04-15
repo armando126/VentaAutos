@@ -1,0 +1,74 @@
+﻿@model ProyectoAutos.Models.Pedido
+
+@{
+    ViewBag.Title = "Nuevo";
+}
+
+<h2>Nuevo</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+
+    
+    <div class="row">
+        <div class="col-lg-6" style="padding: 20px;">
+            <div style="padding: 20px; border: 1px solid black;">
+                <table style="width:100%">
+                    <tr>
+                        <td>
+                            <h1>Auto a comprar</h1>
+                            <strong> Nombre Auto:</strong> @Html.DisplayFor(model => model.auto.nombreAuto)<br />
+                            <strong>Modelo:</strong> @Html.DisplayFor(model => model.auto.modelo)<br />
+                            <strong>Marca:</strong> @Html.DisplayFor(model => model.auto.marca)<br />
+                            <h1>Usuario que compra</h1>
+                            <strong>Nombre:</strong> @Html.DisplayFor(model => model.usuario.nombreUsuario)<br />
+                            <strong>Email:</strong> @Html.DisplayFor(model => model.usuario.email)
+
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="col-lg-6" style="padding: 20px;">
+
+            @if(Model.auto.archivos.Any(a => a.tipo == ProyectoAutos.Models.FileType.Imagen))
+            {
+                <dt>Imagen: </dt>
+                <dd><img src="~/Archivo/Obtener?id=@Model.auto.archivos.First(a => a.tipo == ProyectoAutos.Models.FileType.Imagen).idArchivo" style="max-width:300px;" /></dd>
+            }
+
+        </div>
+
+
+
+        </div>
+     @Html.ActionLink("ORDENAR", "Ordenar", "Pedido", new { id = Model.auto.idAuto }, new { @class = "btn btn-success" })
+     <strong> | </strong>  
+     if(Session["usuarioUsuario"].Equals("admin"))
+    {
+            @Html.ActionLink("CANCELAR", "Index", "Admin", null, new { @class = "btn btn-danger" })
+    }
+    else
+    {
+            @Html.ActionLink("CANCELAR", "Index", "Home", null, new { @class = "btn btn-danger" })
+    }
+}
+
+<div>
+    @if (Session["usuarioUsuario"].Equals("admin"))
+    {
+        @Html.ActionLink("Atras", "Index","Admin")
+    }
+    else
+    {
+        @Html.ActionLink("Atras", "Index","Home")
+    }
+    
+</div>
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
